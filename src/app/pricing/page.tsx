@@ -14,9 +14,7 @@ import twitter from "@/images/logos_twitter.png";
 import facebook from "@/images/logos_facebook.png";
 import insta from "@/images/ant-design_instagram-outlined.png";
 import linkdin from "@/images/logos_linkedin-icon.png"
-import facebookIcon from "@/images/facebook.png";
-import instagramIcon from "@/images/ant-design_instagram-outlined.png";
-import twittericon from "@/images/ant-design_twitter-outlined.png";
+
 import Footer from "../components/footer";
 import Navbar2 from "../components/navbar2";
 
